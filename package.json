@@ -1,0 +1,10 @@
+{
+  "name": "fixrenova",
+  "version": "1.0.0",
+  "description": "FixRenova Landing Page",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {}
+}
